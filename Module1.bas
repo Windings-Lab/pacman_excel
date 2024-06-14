@@ -300,18 +300,6 @@ Public Sub Begin()
     Cells(R2, C2) = "L"
     Cells(R2, C2).Font.ColorIndex = 4
     Z2 = Chr(159)
-'' Enemy 3
-'    R3 = 6
-'    C3 = 2
-'    Cells(R3, C3) = "L"
-'    Cells(R3, C3).Font.ColorIndex = 4
-'    Z3 = Chr(159)
-'' Enemy  4
-'    R4 = 6
-'    C4 = 27
-'    Cells(R4, C4) = "L"
-'    Cells(R4, C4).Font.ColorIndex = 4
-'    Z4 = Chr(159)
 ' Score
     Score = 0
     [AF2] = Score
