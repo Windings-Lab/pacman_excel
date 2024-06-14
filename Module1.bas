@@ -274,7 +274,7 @@ End Sub
 Public Sub Begin()
     Dim T As String, D As Single
     [A1:AF31] = ""
-    If Mode = 0 Then [AI:AI] = ""
+    If Mode = 0 Then [CB:CB] = ""
     Cells.Font.ColorIndex = 1
     For R = 2 To 30
         For C = 2 To 27
